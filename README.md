@@ -27,7 +27,7 @@ Goal of this challenge is to implement a reusable multi-select input component w
 ```
 
 ## Instructions
-1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the [eckstack/code-challenge-multi-select]() repository.
+1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the [ectool/code-challenge-multi-select](https://github.com/ectool/code-challenge-multi-select) repository.
 2. Clone the forked repository to your local machine.
 3. Install npm modules.
     ```bash
