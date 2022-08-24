@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <clipPath id="clip-ec_icon_256">
+      <rect width="256" height="256"/>
+    </clipPath>
+  </defs>
+  <g id="ec_icon_256" clip-path="url(#clip-ec_icon_256)">
+    <rect width="256" height="256" fill="#fff"/>
+    <g id="Logo_ohne_Schutzraum_svg_Druck" transform="translate(9.543 62.057)">
+      <rect id="ArtBoard1" width="236.913" height="131.886" fill="none"/>
+      <g id="Gruppe_2" data-name="Gruppe 2" transform="translate(10.751 7.725)">
+        <g id="Gruppe_1" data-name="Gruppe 1">
+          <path id="Pfad_9" data-name="Pfad 9" d="M61.6,57.513q-9.9,0-15.509,6.275t-6.429,17.8H83.333q-.2-11.529-6.02-17.8T61.6,57.513Zm4.387,96.115q-27.549,0-43.058-15.2T7.42,95.366q0-28.671,14.335-44.333T61.4,35.371q24.183,0,37.651,13.775T112.515,87.2v15.1H38.948q.511,13.264,7.857,20.713t20.61,7.447A85.567,85.567,0,0,0,86.9,128.323a97.4,97.4,0,0,0,19.182-6.836v24.08a73.108,73.108,0,0,1-17.447,6.071A110.062,110.062,0,0,1,65.987,153.628Z" transform="translate(-7.42 -35.371)" fill="#1fbba6"/>
+          <path id="Pfad_10" data-name="Pfad 10" d="M145.892,153.628q-53.262,0-53.262-58.465,0-29.079,14.489-44.434t41.528-15.357q19.795,0,35.508,7.754l-9.183,24.08q-7.346-2.96-13.672-4.847a44.038,44.038,0,0,0-12.653-1.888q-24.283,0-24.283,34.486,0,33.467,24.283,33.468a55.377,55.377,0,0,0,16.632-2.4,60.052,60.052,0,0,0,15.3-7.5v26.631a50.165,50.165,0,0,1-15.254,6.633A85.78,85.78,0,0,1,145.892,153.628Z" transform="translate(30.83 -35.371)" fill="#1fbba6"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
