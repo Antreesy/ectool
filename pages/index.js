@@ -13,7 +13,7 @@ export default function Home() {
   const [ selectedKeys, setSelectedKeys ] = useState(['purple', 'red']);
   const options = [
     { key: 'red', name: 'Red' },
-    { key: 'blue', name: 'Blue' },
+    { key: 'blue', name: 'Blue', disabled: true },
     { key: 'ocean', name: 'Ocean' },
     { key: 'orange', name: 'Orange' },
     { key: 'yellow', name: 'Yellow' },
@@ -68,7 +68,7 @@ export default function Home() {
             <Heading>Instruction:</Heading>
             <Text>Extend the <Code size='small'>MultiSelect</Code> component in <Code size='small'>{'/components/MultiSelect.js'}</Code></Text>
           </section>
-          <section className='mt-2 p-4 text-center'>
+          <section className='mt-2 mb-60 p-4 text-center'>
             <Heading>Playground:</Heading>
             <div className='max-w-5xl mx-auto bg-gray-100 text-gray-700 dark:text-gray-400 dark:bg-gray-800 border dark:border-gray-600 rounded text-left'>
               <div className='flex flex-col p-10 justify-center items-center '>
