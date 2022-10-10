@@ -1,13 +1,13 @@
 # Code Challenge - Create a multi-select input
 
-Goal of this challenge is to implement a reusable multi-select input component with react and tailwindcss.
+Goal of this challenge is to implement a reusable multi-select input component with React and Tailwind CSS.
 
 ![alt text](/public/screenshot_multi_select_input.png)
 
 ## Requirements
 
 - Selected items should be displayed as dismissable badges
-- Component must be styled with tailwindcss
+- Component must be styled with Tailwind CSS
 - Selectable options should be passed as prop
 - Selected items should be passed as prop (Controlled)
 - Changes should be returned as event (Controlled)
@@ -15,30 +15,11 @@ Goal of this challenge is to implement a reusable multi-select input component w
 - (Optional) Input should be keyboard accessible
 - (Optional) Input should be dark mode compatible
 
-## Syntax
+## Results
 
-```jsx
-<MultiSelect
-  label="Colors"
-  options={options}
-  selectedKeys={selectedKeys}
-  onSelectionChange={setSelectedKeys}
-></MultiSelect>
-```
-
-## Instructions
-1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the [ectool/code-challenge-multi-select](https://github.com/ectool/code-challenge-multi-select) repository.
-2. Clone the forked repository to your local machine.
-3. Install npm modules.
-    ```bash
-    cd code-challenge-multi-select
-    npm install
-    ```
-4. Run the development server.
-    ```bash
-    npm run dev
-    ```
-5. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-6. Extend the `MultiSelect` component in `/components/MultiSelect.js`.
-7. Commit and push your final version to GitHub.
-8. Submit your repository.
+- Сomponent that meets the task requirements has been created
+- The changes did not affect props and returning changes
+- Options were extended to pass "disabled" attribute
+- Text input added with the ability to enter and search for options
+- Component is accessible for native HTML keyboard events (Tab, Enter, Space)
+- Styles worked out according to the screenshot for use with light and dark theme
